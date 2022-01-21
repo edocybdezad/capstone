@@ -1,0 +1,56 @@
+section	label	name	description	price
+EAT	Entrantes Frios	Anchoas del Cantabrico		2.00
+EAT	Entrantes Frios	Tabla de Jamon Iberico		14.65
+EAT	Entrantes Frios	Ensalidilla con Langostinos		7.50
+EAT	Entrantes Calientes	Pulpo en Cayuco	con una base de pure Boniato	16.95
+EAT	Entrantes Calientes	Clotxina D.O. Valencia	Temporada	7.50
+EAT	Tortillas	De Patata		7.00
+EAT	Tortillas	Patata y Jamon Iberico		9.50
+EAT	Ensaladas	De la Huerta	cebolla, maiz, tomate, atun, zanahoria, aceitunas, huevo duro	9.50
+EAT	Ensaladas	De Pollo y Bacon Crujiente	con tomatitos cherry, lascas de parmesano y salsa rosa	11.25
+EAT	Ensaladas	Tomate de El Perello con Ventresca		11.50
+EAT	Arroces	Paella Valenciana		10.75
+EAT	Arroces	Arroz de Bogavante Meloso		17.50
+EAT	Arroces	Fideua Negra	Gamba roja y cigala "O"	16.75
+EAT	Carnes	Secreto Iberico		9.50
+EAT	Carnes	Carrillera de Ternera		14.25
+EAT	Hamburguesas	Hamburguesa Full Equipo (Angus)	con tomate, lechuga, bacon, queso cheddar, huevo y mayonesa	12.75
+EAT	Pescados	Lomo de Lubina con Verduritas		13.25
+EAT	Pescados	Bacalao gratinado con Muselina de AliOli		14.25
+EAT	Sandwiches	Mixto	Queso cheddar y Jamon York	3.80
+EAT	Sandwiches	Club	Sandwich doble. Un piso de mixto y otro con mezclum, pechuga de pollo y mayonesa. Acompañado de patatas fritas	7.50
+EAT	Sandwiches	Vegetal	Mezclum, atun, tomate, huevo duro y mayonesa	4.50
+EAT	Sandwiches	Vip	Bacon, Cheddar y revuelto de Huevo. Acompañado de patatas fritas	7.00
+EAT	Pizzas	Margarita	tomate y queso mozzarella	7.50
+EAT	Pizzas	Barbacoa	Tomate, bacon, pollo, salsa barbacoa y mozarella	9.85
+EAT	Pizzas	Atun	tomate, atun, aceitunas y mozzarella	9.85
+EAT	Pizzas	Prosciutto	tomate, Jamon York y mozzarella	8.50
+EAT	Pizzas	Especial 4 quesos	tomate, parmesano, mozzarella, queso azul, queso de cabra y cebolla caramelizada	10.50
+EAT	Bocadillos	Almussafes	sobrasada, queso y cebolla	4.50
+EAT	Bocadillos	Atun Olivas		4.00
+EAT	Bocadillos	Pollito	pechuga de pollo, queso, mayonesa, lechuga, tomate, bacon y bacon	6.00
+EAT	Bocadillos	Mallorquin	queso fondente y sobrasada tostada	5.50
+DRINK	Vino Tinto	Venta del Puerto 12	Tempranillo, Cavernet Sauvignon, Syrah y Merlot (Valencia)	16.65
+DRINK	Vino Tinto	Murviedro Cepas Viejas	Bobal (Utiel-Requena)	19.25
+DRINK	Vino Tinto	Ramon Bilbao	Tempranillo (RIOJA)	18.25
+DRINK	Vino Tinto	Muga Crianza	Tempranillo, Garnacha, Graciano y Mazuelo	23.50
+DRINK	Vino Tinto	Protos	Tinto Fino (Ribera del Duero)	21.50
+DRINK	Vino Tinto	Matarromera	Tempranillo (Ribera del Duero)	24.50
+DRINK	Vinos Blancos	Yllera Vendimia Nocturna	Verdejo (Rueda)	18.50
+DRINK	Vinos Blancos	Jose Pariente	Verdejo (Rueda)	22.50
+DRINK	Vinos Blancos	Pekado Mortal	Albariño (Rias Baixas)	16.75
+DRINK	Vinos Blancos	Pazo de San Mauro	Albariño (Rias Baixas)	22.50
+DRINK	Vinos Blancos	Mar de Frades	Albariño (Rias Baixas)	24.50
+DRINK	Cava y Champagne	Juve Camps Reserva de la Familia	Macabeo, Parellada, Xarel-lo. CAVA BRUT NATURE	29.85
+DRINK	Cava y Champagne	Veuve Cliquot Brut	Chardonnay, Meunier, Pinot Noir. CHAMPAGNE BRUT	55.50
+DRINK	Cava y Champagne	Don Perignon Vintage	Chardonnay, Pinot Noir. CHAMPAGNE	185.50
+DRINK	Vino por Copas	Vino Blanco	Verdejo	3
+DRINK	Vino por Copas	Vino Tinto	Tempranillo	3
+DRINK	Vino por Copas	Vermouth	blanco o rojo	3
+DRINK	Cervezas	Aguila 33cl		3
+DRINK	Cervezas	Radler	beer and lemon	3
+DRINK	Cervezas	Heineken 0,0 33Cl	Alcohol Free	3
+DRINK	mixers	Agua 1.5L		2.50
+DRINK	mixers	Refrescos		2.00
+DRINK	mixers	Tonica		2.00
+DRINK	mixers	Agua con Gas		2.00
